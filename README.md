@@ -11,4 +11,6 @@ public void personalDescription() {
 
 
 
-![68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f68746d6c352f68746d6c352d6f726967696e616c2e737667](https://github.com/LucasSaravi-cpu/LucasSaravi-cpu/assets/126580800/b30863a9-7552-41d1-939e-e5d8f8268b3f)
+<img align="left" title="Git" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" title="TypeScript" alt="TypeScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+<img align="left" title="SASS" alt="sass" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />  
