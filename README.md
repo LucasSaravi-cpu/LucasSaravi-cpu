@@ -1,7 +1,1 @@
-public void personalDescription() {
-
-    System.out.printf("Welcome to my GitHub!");
-    System.out.printfe("My name is Lucas Saravi");
-    System.out.printf(""I am a programming teacher in EMCA");
-    
-}
+![personal](https://github.com/LucasSaravi-cpu/LucasSaravi-cpu/assets/126580800/64e88dd4-5591-4a83-9359-e1c6edf4bf8b)
