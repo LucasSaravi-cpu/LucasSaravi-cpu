@@ -18,7 +18,7 @@ public void personalDescription() {
         <img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/postgresql/postgresql-original.svg"  title="postgresql" alt="postgresql" width="40" height="40"/>&nbsp; 
         <img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/matlab/matlab-original.svg" title="Matlab"  alt="Matlab" width="40" height="40"/>&nbsp;  
         <img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/c/c-original.svg"  title="c" alt="c" width="40" height="40"/>&nbsp;  
-        <img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/mysql/mysql-original-wordmark.svg"  title="mysql" alt="mysql" width="40" height="40"/>&nbsp;  
+        <img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/java/java-original.svg"  title="java" alt="java" width="40" height="40"/>&nbsp;  
         <img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/illustrator/illustrator-line.svg"  title="ilustrator" alt="ilustrator" width="40" height="40"/>&nbsp; 
         <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva"  alt="Canva" width="40" height="40"/>&nbsp;  
       </div>
