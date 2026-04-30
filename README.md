@@ -1,4 +1,6 @@
 
+<h3>👨‍💻 About Me</h3>
+
 ```csharp
 public void personalDescription() {
     Console.WriteLine("Hola👋");
@@ -8,9 +10,10 @@ public void personalDescription() {
     Console.WriteLine("99% programando, 1% preguntándome por qué no funciona 🤔 ");
 
 }
-
+```
 
 <h3>✅ Mi portafolio : </h3>
 
- https://lucassaravi-cpu.github.io/Portfolio/ 
+🚀 Explorá mis proyectos:
+👉 https://lucassaravi-cpu.github.io/Portfolio/
 
