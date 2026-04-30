@@ -1,15 +1,15 @@
 
 ```csharp
-/*public void personalDescription() {
+public void personalDescription() {
 
    Console.WriteLine("Welcome 👋");
    Console.WriteLine("🚀 I'm Lucas Saravi");
    Console.WriteLine(" I'm studying computer engineering at Fasta University");  
-} */
+} 
 
 
 
-<!-- ``` <div align="left">
+``` <div align="left">
     <h3>🔨 Languages and Tools:</h3>
     <div>
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -23,7 +23,7 @@
         <img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/illustrator/illustrator-line.svg"  title="ilustrator" alt="ilustrator" width="40" height="40"/>&nbsp; 
         <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva"  alt="Canva" width="40" height="40"/>&nbsp;  
       </div>
-</div> -->
+</div> 
 
   <h3>✅ Mi portafolio : </h3>
 
