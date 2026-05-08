@@ -11,7 +11,7 @@
     }
 
 ```
-<h3>Si estas aburrido entra </h3>
+<h3>Si estas aburrido entra.. Solo es una demo </h3>
 
 [![SaraGalaxy](Foto1.png)](https://lucassaravi-cpu.github.io/SaraGalaxy/)
 
