@@ -1,4 +1,4 @@
-![LUCAS](Titulo.svg)
+![LUCAS SARAVÍ](Titulo.svg)
 
 
 <h3>👨‍💻 About Me</h3>
