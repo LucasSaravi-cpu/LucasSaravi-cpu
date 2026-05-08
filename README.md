@@ -13,7 +13,7 @@
 ```
 <h3>Si estas aburrido entra.. Solo es una demo </h3>
 
-[![SaraGalaxy](Foto.png)](https://lucassaravi-cpu.github.io/SaraGalaxy)
+[![SaraGalaxy](https://raw.githubusercontent.com/lucassaravi-cpu/SaraGalaxy/main/Foto.png)](https://lucassaravi-cpu.github.io/SaraGalaxy)
 
 
 <h3>✅ Mi portafolio : </h3>
