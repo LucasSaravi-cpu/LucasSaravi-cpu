@@ -7,11 +7,10 @@
    public void personalDescription() {
         System.out.println("Hola Mundo 🌍");
         System.out.println("Soy Lucas — estudiante de ingeniería en informática 👋");
-        System.out.println("Nose que mas poner aca 👋");
     }
 
 ```
-<h3>Si estas aburrido entra.. Solo es una demo </h3>
+<h3> =) </h3>
 
 [![SaraGalaxy](https://raw.githubusercontent.com/lucassaravi-cpu/SaraGalaxy/main/Foto.png)](https://lucassaravi-cpu.github.io/SaraGalaxy)
 
